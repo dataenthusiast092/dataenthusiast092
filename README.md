@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📖 I'm currently learning JDK17+ verions.
+- 📖 I'm currently learning JDK17+ versions.
 - 📺 I'm currently watching the JavaOne 2025 on youtube.
 - 🤔 I’m looking for help with the JEP for openjdk project.
 - 📫 How to reach me: eng.swati.sharma@gmail.com
