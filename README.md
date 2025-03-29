@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 📖 I'm currently learning JDK17+ versions.
 - 📺 I'm currently watching the JavaOne 2025 on youtube.
 - 🤔 I’m looking for help with the JEP for openjdk project.
-- 📫 How to reach me: eng.swati.sharma@gmail.com
+- 💬 Ask me about Python, Java, SQL and Machine Learning Theory.
+- 👯 I’m looking to co-learn Mathematics and C++.
 - ⚡ Fun fact: I know the reverse pronunciation to my name.
