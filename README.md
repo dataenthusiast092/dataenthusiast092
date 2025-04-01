@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Java, SQL and Machine Learning Theory.
 - 👯 I’m looking to co-learn Mathematics and C++.
 - ⚡ Fun fact: I know the reverse pronunciation to my name.
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dataenthusiast092&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dataenthusiast092&hide_langs_below=.25&theme=radical">
+</p>
